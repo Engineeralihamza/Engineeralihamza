@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=engineeralihamza&label=Profile%20views&color=0e75b6&style=flat" alt="engineeralihamza" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Development**
+-  I’m currently learning **Full Stack Development**
 
-- 💬 Ask me about **HTML5, CSS, Javascript**
+-  Ask me about **HTML5, CSS, Javascript**
 
-- 📫 How to reach me **therealalihamza@gmail.com**
+-  How to reach me **therealalihamza@gmail.com**
 
-- ⚡ Fun fact **I think i am funny😅.**
+-  Fun fact **I think i am funny😅.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
